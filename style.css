@@ -1,0 +1,31 @@
+
+        * {
+            margin: 0px;
+        }
+        header {
+            background-image: linear-gradient(rgb(219, 36, 36),white);
+            margin: 10px;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: bisque;
+            box-shadow:2px 2px 5px rgb(102, 83, 61) ;
+            margin: 10px;
+            padding: 10px;
+        }
+        main {
+            background-color: rgb(172, 136, 92) ;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.712);
+        }
+        footer {
+            background-color: black;
+            color: white;
+        }
+        nav > a {
+            padding:15px 0px 15px 0px ; 
+        }    
+    
